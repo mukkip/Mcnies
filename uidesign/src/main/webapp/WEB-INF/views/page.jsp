@@ -64,6 +64,7 @@
 	<!-- Bootstrap core JavaScript -->
 	<script src="${js}/jquery.js"></script>
 	<script src="${js }/bootstrap.bundle.min.js"></script>
+	<script src="${js }/myapp.js"></script>
 
 </body>
 

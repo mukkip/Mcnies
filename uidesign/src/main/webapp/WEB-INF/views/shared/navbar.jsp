@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+<script>
+
+window.menu='${title}'
+</script>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
       <a class="navbar-brand" href="${contextRoot}/home">Mcnices Fish And Chips</a>
@@ -20,13 +24,13 @@
               <span class="sr-only">(current)</span>
             </a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item" id = "menu">
             <a class="nav-link" href="${contextRoot}/menu ">Menu</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item" id = "about">
             <a class="nav-link" href="${contextRoot}/about">About us</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item" id = "contact">
             <a class="nav-link" href="${contextRoot}/contact">Contact Us</a>
           </li>
         </ul>

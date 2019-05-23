@@ -34,8 +34,8 @@
 				<li class="nav-item">
 					<a class="nav-link" data-toggle="tab" href="#tab-2" role="tab" aria-controls="tab-2" aria-selected="false">
 						<div class="mpm-text">
-							<h5>Brunch</h5>
-							<p>Weekdays  8:30a.m. — 11:30a.m.</p>
+							<h5>Fish N' Chips</h5>
+							
 						</div>
 					</a>
 				</li>
@@ -155,34 +155,42 @@
 						<div class="col-lg-6">
 							<!-- menu item -->
 							<div class="menu-item">
-								<h5>Scrambled Eggs with ham</h5>
+								<h5>Halibut & Chips</h5>
 								<div class="mi-meta">
-									<p>with wild mushrooms and asparagus</p>
-									<div class="menu-price">$9.00</div>
+									<p>One piece of Fish AND one order of Chips</p>
+									<div class="menu-price">$15.49</div>
 								</div>
 							</div>
 							<!-- menu item -->
 							<div class="menu-item">
-								<h5>Scrambled Eggs in Puff Pastry</h5>
+								<h5>Half Halibut Plate</h5>
 								<div class="mi-meta">
-									<p>with wild mushrooms and asparagus</p>
-									<div class="menu-price">$11.00</div>
+									<p>half piece of Fish, half order of Chips</p>
+									<div class="menu-price">$10.49</div>
 								</div>
 							</div>
 							<!-- menu item -->
 							<div class="menu-item">
-								<h5>Eggs Benedict</h5>
+								<h5>Halibut Large Order</h5>
 								<div class="mi-meta">
-									<p>with wild mushrooms and asparagus</p>
-									<div class="menu-price">$6.00</div>
+									<p>two pieces of Fish & one order Chips</p>
+									<div class="menu-price">$26.49</div>
 								</div>
 							</div>
 							<!-- menu item -->
 							<div class="menu-item">
-								<h5>Soft-Boiled Organic Egg</h5>
+								<h5>Halibut two & Few</h5>
 								<div class="mi-meta">
-									<p>with wild mushrooms and asparagus</p>
-									<div class="menu-price">$8.00</div>
+									<p>two pieces of fish and half order Chips</p>
+									<div class="menu-price">$25.49</div>
+								</div>
+							</div>
+							<!-- menu item -->
+							<div class="menu-item">
+								<h5>Halibut Fish & 4 Shrimps or 4 Scallops </h5>
+								<div class="mi-meta">
+									<p>with Chips</p>
+									<div class="menu-price">$23.99</div>
 								</div>
 							</div>
 						</div>
@@ -197,18 +205,32 @@
 							</div>
 							<!-- menu item -->
 							<div class="menu-item">
-								<h5>Scrambled Eggs in Puff Pastry</h5>
+								<h5>McNIES' Platter </h5>
 								<div class="mi-meta">
-									<p>with wild mushrooms and asparagus</p>
-									<div class="menu-price">$11.00</div>
+									<p>2 pieces of Fish +4 Scallops+ 4 Shrimps with chips</p>
+									<div class="menu-price">$23.99</div>
 								</div>
 							</div>
 							<!-- menu item -->
 							<div class="menu-item">
-								<h5>Eggs Benedict</h5>
+								<h5>Haddock & Chips</h5>
 								<div class="mi-meta">
-									<p>with wild mushrooms and asparagus</p>
-									<div class="menu-price">$6.00</div>
+									
+									<div class="menu-price">$11.99</div>
+								</div>
+							</div>
+							<div class="menu-item">
+								<h5>Salmon & Chips</h5>
+								<div class="mi-meta">
+									
+									<div class="menu-price">$14.99</div>
+								</div>
+							</div>
+							<div class="menu-item">
+								<h5>Salmon & Chips</h5>
+								<div class="mi-meta">
+									
+									<div class="menu-price">$14.99</div>
 								</div>
 							</div>
 						</div>
